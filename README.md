@@ -1,4 +1,5 @@
 # Inactive
+[![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/GSA/px-benefit-finder)
 
 **NOTICE: this repository has been decommissioned. The tool is now part of the [usagov-2021 repo](https://github.com/usagov/usagov-2021).**
 
